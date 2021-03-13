@@ -1,0 +1,8 @@
+tensorflow
+opencv-python
+imageio
+wikipedia
+illuminati
+hy
+qwant
+Wikipedia-API
