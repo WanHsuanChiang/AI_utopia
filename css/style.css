@@ -8,4 +8,8 @@ body {
   display: -ms-flexbox;
   display: flex;
 }
+
+canvas {
+  background-color: black;
+}
 /*# sourceMappingURL=style.css.map */
